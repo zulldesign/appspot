@@ -1,0 +1,1910 @@
+"General"
+{
+"ProjectType" = "composer"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.3"
+    {
+    }
+    "Staging|PHP 5.3"
+    {
+    }
+    "Production|PHP 5.3"
+    {
+    }
+}
+"Files"
+{
+    ".gitignore"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\.htaccess"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\cache\\.htaccess"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\cache\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\autoload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\constants.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\database.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\doctypes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\foreign_chars.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\hooks.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\migration.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\mimes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\profiler.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\routes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\smileys.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\user_agents.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\welcome.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\core"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\core\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_404.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_db.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_general.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_php.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\helpers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\helpers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\hooks"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\hooks\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\language"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\language\\english"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\language\\english\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\libraries"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\libraries\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\logs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\logs\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\third_party"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\third_party\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\welcome_message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "composer.json"
+    {
+    "ProjRelPath" = "T"
+    }
+    "composer.lock"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "README.md"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\autoload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\composer"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\composer\\autoload_classmap.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\composer\\autoload_namespaces.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\composer\\autoload_psr4.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\composer\\autoload_real.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\composer\\ClassLoader.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\composer\\installed.json"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\.gitignore"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\.travis.yml"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\.htaccess"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\cache\\.htaccess"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\cache\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\autoload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\constants.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\database.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\doctypes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\foreign_chars.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\hooks.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\migration.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\mimes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\profiler.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\routes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\smileys.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\config\\user_agents.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\controllers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\controllers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\controllers\\welcome.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\core"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\core\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\errors"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\errors\\error_404.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\errors\\error_db.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\errors\\error_general.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\errors\\error_php.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\errors\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\helpers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\helpers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\hooks"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\hooks\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\language"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\language\\english"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\language\\english\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\libraries"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\libraries\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\logs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\logs\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\models"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\models\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\third_party"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\third_party\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\views"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\views\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\application\\views\\welcome_message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\composer.json"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\license.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\.htaccess"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Benchmark.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\CodeIgniter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Common.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Controller.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Exceptions.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Hooks.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Input.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Loader.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Model.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Output.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Router.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Security.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\URI.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\core\\Utf8.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\DB.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\DB_active_rec.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\DB_cache.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\DB_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\DB_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\DB_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\DB_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\cubrid"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\cubrid\\cubrid_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\cubrid\\cubrid_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\cubrid\\cubrid_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\cubrid\\cubrid_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\cubrid\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mssql"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mssql\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mssql\\mssql_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mssql\\mssql_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mssql\\mssql_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mssql\\mssql_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysql"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysql\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysql\\mysql_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysql\\mysql_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysql\\mysql_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysql\\mysql_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysqli"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysqli\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysqli\\mysqli_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysqli\\mysqli_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysqli\\mysqli_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\mysqli\\mysqli_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\oci8"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\oci8\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\oci8\\oci8_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\oci8\\oci8_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\oci8\\oci8_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\oci8\\oci8_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\odbc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\odbc\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\odbc\\odbc_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\odbc\\odbc_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\odbc\\odbc_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\odbc\\odbc_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\pdo"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\pdo\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\pdo\\pdo_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\pdo\\pdo_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\pdo\\pdo_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\pdo\\pdo_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\postgre"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\postgre\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\postgre\\postgre_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\postgre\\postgre_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\postgre\\postgre_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\postgre\\postgre_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlite"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlite\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlite\\sqlite_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlite\\sqlite_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlite\\sqlite_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlite\\sqlite_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlsrv"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlsrv\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlsrv\\sqlsrv_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlsrv\\sqlsrv_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlsrv\\sqlsrv_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\drivers\\sqlsrv\\sqlsrv_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\database\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\fonts"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\fonts\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\fonts\\texb.ttf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\array_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\captcha_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\cookie_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\date_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\directory_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\download_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\email_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\file_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\form_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\html_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\inflector_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\language_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\number_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\path_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\security_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\smiley_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\string_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\text_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\typography_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\url_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\helpers\\xml_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\calendar_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\date_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\db_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\email_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\form_validation_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\ftp_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\imglib_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\migration_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\number_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\profiler_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\unit_test_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\english\\upload_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\language\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Cache\\Cache.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Cache\\drivers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Cache\\drivers\\Cache_apc.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Cache\\drivers\\Cache_dummy.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Cache\\drivers\\Cache_file.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Cache\\drivers\\Cache_memcached.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Calendar.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Cart.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Email.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Encrypt.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Form_validation.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Ftp.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Image_lib.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\javascript"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Javascript.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\javascript\\Jquery.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Log.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Migration.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Pagination.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Parser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Profiler.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Session.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Sha1.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Table.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Trackback.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Typography.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Unit_test.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Upload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\User_agent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Xmlrpc.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Xmlrpcs.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\system\\libraries\\Zip.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\changelog.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\active_record.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\caching.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\call_function.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\configuration.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\connecting.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\examples.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\fields.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\forge.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\helpers.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\queries.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\results.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\table_data.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\transactions.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\database\\utilities.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\doc_style"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\doc_style\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\doc_style\\template.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\alternative_php.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\ancillary_classes.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\autoloader.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\caching.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\cli.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\common_functions.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\controllers.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\core_classes.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\creating_drivers.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\creating_libraries.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\credits.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\drivers.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\environments.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\errors.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\helpers.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\hooks.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\libraries.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\managing_apps.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\models.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\profiling.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\quick_reference.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\requirements.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\reserved_names.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\routing.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\security.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\styleguide.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\urls.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\general\\views.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\array_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\captcha_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\cookie_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\date_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\directory_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\download_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\email_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\file_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\form_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\html_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\inflector_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\language_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\number_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\path_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\security_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\smiley_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\string_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\text_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\typography_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\url_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\helpers\\xml_helper.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\appflowchart.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\arrow.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\ci_logo.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\ci_logo_flame.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\ci_quick_ref.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\codeigniter_1.7.1_helper_reference.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\codeigniter_1.7.1_helper_reference.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\codeigniter_1.7.1_library_reference.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\codeigniter_1.7.1_library_reference.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\file.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\folder.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\nav_bg_darker.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\nav_separator_darker.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\nav_toggle_darker.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\reactor-bullet.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\images\\transparent.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\downloads.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\troubleshooting.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_120.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_130.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_131.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_132.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_133.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_140.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_141.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_150.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_152.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_153.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_154.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_160.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_161.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_162.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_163.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_170.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_171.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_172.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_200.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_201.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_202.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_203.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_210.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_211.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_212.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_213.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_214.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrade_b11.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\installation\\upgrading.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\benchmark.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\caching.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\calendar.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\cart.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\config.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\email.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\encryption.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\file_uploading.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\form_validation.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\ftp.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\image_lib.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\input.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\javascript.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\language.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\loader.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\migration.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\output.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\pagination.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\parser.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\security.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\sessions.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\table.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\trackback.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\typography.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\unit_testing.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\uri.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\user_agent.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\xmlrpc.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\libraries\\zip.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\license.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\nav"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\nav\\hacks.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\nav\\moo.fx.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\nav\\nav.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\nav\\prototype.lite.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\nav\\user_guide_menu.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\overview"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\overview\\appflow.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\overview\\at_a_glance.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\overview\\cheatsheets.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\overview\\features.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\overview\\getting_started.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\overview\\goals.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\overview\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\overview\\mvc.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\toc.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\tutorial"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\tutorial\\conclusion.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\tutorial\\create_news_items.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\tutorial\\hard_coded_pages.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\tutorial\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\tutorial\\news_section.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\tutorial\\static_pages.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "vendor\\rogeriopradoj\\codeigniter\\user_guide\\userguide.css"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
